@@ -7,3 +7,6 @@ Web scraping is a technique using which the webpages from the internet are fetch
 
  • HTML Parsing→ Parsing the HTML content of the webpages obtained through web crawling and then extracting specific information from it.
    Hence, web scrappers are applications/bots, which automatically send requests to websites and then extract the desired information from the website output.
+
+
+ Diployed in Pivotal - http://reviewscrapper-reflective-springhare-rv.cfapps.io/
